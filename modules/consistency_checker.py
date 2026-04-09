@@ -1,5 +1,5 @@
 from datetime import datetime
-from geopy.timezone import TimezoneFinder
+from timezonefinder import TimezoneFinder
 import pytz
 
 
